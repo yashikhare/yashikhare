@@ -1,16 +1,16 @@
-### Hi there 👋
+# Yashi Khare 😃
+I am a **Frontend(Reactjs) developer**💻 , I have in **depth knowldege** of **HTML5**, **CSS3**, **Vanilla JavaScript**, **React.js** and **Git**.
 
-<!--
-**yashikhare/yashikhare** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 🧐 ABOUT
+I am a **Developer** that means I like to **create new things**, **finding solutions** for people's **problem** through my **coding** and **programming knowledge**.
+  
+# ⚡TECHNOLOGIES
 
-Here are some ideas to get you started:
+- **Front-end development** using **HTML5**, **CSS3**, **React**, **VanillaJS**. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 📫 Contact Me
+- LinkedIn - [My LinkedIn Profile](https://www.linkedin.com/in/yashi-khare-6a6a621a8)
+
+
+
+
